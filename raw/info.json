@@ -1,0 +1,57 @@
+POST /tarzan/android/questions/info?platform=android19&version=5.6.0&vendor=qihu&av=11&_productId=111&_deviceId=-104896089581315288 HTTP/1.1
+
+post params
+{"ids":"168373,168145,166287,165407,165399,1689675,164407,1573975,1743383,1742065"}
+result
+{
+    "164407": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "165399": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "165407": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "166287": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "168145": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "168373": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "1573975": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "1689675": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "1742065": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    },
+    "1743383": {
+        "type": 1,
+        "materialId": 0,
+        "materialIndex": 0
+    }
+}

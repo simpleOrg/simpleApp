@@ -1,0 +1,52 @@
+POST /android/gzyy/exercises?platform=android19&version=5.6.0&vendor=qihu&av=11&_productId=111&_deviceId=-104896089581315288 HTTP/1.1
+
+{
+    "id": 596654013,
+    "userId": 52748512,
+    "createdTime": 1453541871730,
+    "updatedTime": 1453541871730,
+    "status": -1,
+    "quizId": 223,
+    "treeId": 165,
+    "client": "ANDROID",
+    "version": 0,
+    "userAnswers": {},
+    "elapsedTime": 0,
+    "currentTime": 1453541871735,
+    "sheet": {
+        "id": 937668343,
+        "keypointId": 75371440,
+        "type": 3,
+        "name": "基础知识之语法",
+        "paperId": 0,
+        "questionCount": 10,
+        "time": 0,
+        "chapters": [
+            {
+                "name": null,
+                "desc": "",
+                "keypointId": 0,
+                "time": 0,
+                "questionCount": 10,
+                "answerCount": 0,
+                "presetScore": 0,
+                "optionals": null
+            }
+        ],
+        "questionIds": [
+            168373,
+            168145,
+            166287,
+            165407,
+            165399,
+            1689675,
+            164407,
+            1573975,
+            1743383,
+            1742065
+        ],
+        "requestType": 0,
+        "requestNum": 10,
+        "difficulty": 3.8
+    }
+}

@@ -1,0 +1,557 @@
+GET /android/gzyy/questions/bundle?exerciseId=596654013&treeId=165&ids=168373%2C168145%2C166287%2C165407%2C165399%2C1689675%2C164407%2C1573975%2C1743383%2C1742065&platform=android19&version=5.6.0&vendor=qihu&av=11&_productId=111&_deviceId=-104896089581315288&sign=e3a42136809920902cd0e16f9d277e40 HTTP/1.1
+
+{
+    "questions": [
+        {
+            "id": 168373,
+            "content": "[p]When I passed by, I heard her _____ in the room.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1387179886569,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "sings",
+                        "sang",
+                        "singing",
+                        "to sing"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "2",
+                "type": 201
+            },
+            "solution": "[p]本题考查现在分词作宾补。[/p][p]hear sb. do 表示听到了某个人做的整个动作，强调结果，而 hear sb. doing 表示听到某人正在做某事，强调在某个时间点时正在做某动作。通过 When I passed by 可知此处强调在某个时间点时动作正在进行，表达“当我走过时，我听到她正在唱歌”，为第二种情况。故正确答案为C。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": null,
+            "keypoints": [
+                {
+                    "id": 76083440,
+                    "name": "Unit 3 A taste of English humour"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]当我经过时，我听到她正在屋里唱歌。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 168373,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 21125,
+                "mostWrongAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "correctRatio": 76.66272189349112
+            }
+        },
+        {
+            "id": 168145,
+            "content": "[p]— Have you got any particular plans for the coming holiday?[/p][p]— Yes. _____, I'm going to visit some homes for the old in the city.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1387178892804,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "If possible",
+                        "If ever",
+                        "If busy",
+                        "If anything"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "0",
+                "type": 201
+            },
+            "solution": "[p]本题主要考查省略。[/p][p]A项，if possible “如果可能的话”；[/p][p]B项，if ever “如果有过的话”；[/p][p]C项，if busy “如果忙碌的话”；[/p][p]D项，if anything “如果有什么区别的话，如果有什么的话”。[/p][p]结合语境，此处指“如果可能的话，我将参观这个城市里的一些养老院”，用 if possible，故正确答案为A。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": null,
+            "keypoints": [
+                {
+                    "id": 76101440,
+                    "name": "Unit 5 First aid"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]— 对于即将到来的假期，你有什么特别的计划吗？[/p][p]— 有的，如果可能的话，我将参观这个城市里的一些养老院。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 168145,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 4486,
+                "mostWrongAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "correctRatio": 76.0811413285778
+            }
+        },
+        {
+            "id": 166287,
+            "content": "[p]The teacher told Liming _____ the same mistake again.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1387167042386,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "not making",
+                        "not to make",
+                        "to making",
+                        "made"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "1",
+                "type": 201
+            },
+            "solution": "[p]本题考查宾语补足语。[/p][p]动词 told 为 tell 的过去式，tell 后面接动词不定式做宾语补足语，即 tell sb. (not) to do sth. 意为“告诉… （不）做…”。故正确答案为B。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": null,
+            "keypoints": [
+                {
+                    "id": 76147440,
+                    "name": "Unit 5 Inside advertising"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]老师告诉李明不要再犯同样的错了。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 166287,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 5446,
+                "mostWrongAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "correctRatio": 72.19977965479251
+            }
+        },
+        {
+            "id": 165407,
+            "content": "[p]The bridge in our village _____ now.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1387162741313,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "is built",
+                        "is being built",
+                        "builds",
+                        "is building"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "1",
+                "type": 201
+            },
+            "solution": "[p]本题主要考查现在进行时的被动语态。[/p][p]now 表明题目中所说的情况正在进行，因此用现在进行时；且 bridge 与 build 之间为被动关系，用被动语态；故正确答案为B。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": null,
+            "keypoints": [
+                {
+                    "id": 76065440,
+                    "name": "Unit 4 Wildlife protection"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]我们村的那座桥正在建设中。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 165407,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 9644,
+                "mostWrongAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "correctRatio": 70.8834508502696
+            }
+        },
+        {
+            "id": 165399,
+            "content": "[p]— Come on, Kitty.[/p][p]— Oh, good heavens! Both my legs are nearly to give out. I _____ for hours like a dog.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1387162680916,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "have been walking",
+                        "had walked",
+                        "was walking",
+                        "walked"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "0",
+                "type": 201
+            },
+            "solution": "[p]本题主要考查现在完成进行时。[/p][p]结合题意，walk 这个动作由过去开始延续到现在，并将继续延续下去，因此用现在完成进行时。故正确答案为A。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": null,
+            "keypoints": [
+                {
+                    "id": 76155440,
+                    "name": "Unit 3 Fairness for all"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]— 快点，Kitty。[/p][p]— 天呐！我的双腿快没有力气了。我已经像狗一样地走了几个小时了。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 165399,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 4268,
+                "mostWrongAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "correctRatio": 68.83786316776007
+            }
+        },
+        {
+            "id": 1689675,
+            "content": "[p]When I got to the theater, the film had already begun. I _____ earlier.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1440583897835,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "ought to start",
+                        "can start",
+                        "should have started",
+                        "must have started"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "2",
+                "type": 201
+            },
+            "solution": "[p]本题考查虚拟语气。[/p][p]ought to do 意为“应该做某事；有必要做某事”，更多反映客观情况；can do 意为“可以/可能做某事”，表一种能力；should have done 意为“本来应该做（但实际上没做）”；must have done 意为“一定已经做了某事”，表肯定推测。结合句意“当我到剧院的时候电影已经开始了。我应该早点出发的。”后一句是虚拟的情况，本来应该早点出发的，但实际上却没有，should have started 符合题意。故正确答案为C。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": "14-15学年广东省清远市高一下学期期末考试：英语第52题",
+            "keypoints": [
+                {
+                    "id": 76103440,
+                    "name": "Unit 1 Art"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]当我到剧院的时候电影已经开始了。我应该早点出发的。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 1689675,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 7701,
+                "mostWrongAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "correctRatio": 70.12076353720296
+            }
+        },
+        {
+            "id": 164407,
+            "content": "[p]― How about my food? I _____ here for almost half an hour.[/p][p]― I'm sorry, sir. It must be ready by now.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1387094450893,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "have been sitting",
+                        "am sitting",
+                        "had been sitting",
+                        "was sitting"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "0",
+                "type": 201
+            },
+            "solution": "[p]本题主要考查现在完成进行时。[/p][p]结合语境，题目中 sit 状态从过去开始，持续到现在，而且有可能继续持续下去，因此用现在完成进行时；故正确答案为A。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": null,
+            "keypoints": [
+                {
+                    "id": 76155440,
+                    "name": "Unit 3 Fairness for all"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]— 我的食物怎么样了？我在这儿坐了快半个小时了。[/p][p]— 先生，不好意思。现在肯定好了。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 164407,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 5660,
+                "mostWrongAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "correctRatio": 68.92226148409894
+            }
+        },
+        {
+            "id": 1573975,
+            "content": "[p]_____ moved us most was _____ he looked after the old man for more than twenty years.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1434770027913,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "What; that",
+                        "That; that",
+                        "What; what",
+                        "That; what"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "0",
+                "type": 201
+            },
+            "solution": "[p]本题考查主语从句和表语从句。[/p][p]分析句子成分可知，_____ moved us most 为主语从句，该从句中缺少主语，由引导词充当，且其指代“最感动我们的内容”，应用 what。故第一空应填 what；[/p][p]_____ he looked after the old man for more than twenty years. 为表语从句，横线部分为引导词。表语从句 he looked after the old man for more than twenty years 不缺名词性成分且句意完整，应填入 that，只起连接作用。故第二空填 that；[/p][p]故正确答案为A。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": null,
+            "keypoints": [
+                {
+                    "id": 76127440,
+                    "name": "Unit 1 A land of diversity"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]最让我们感动的是他照顾了这个老人20多年。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 1573975,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 4035,
+                "mostWrongAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "correctRatio": 66.86493184634449
+            }
+        },
+        {
+            "id": 1743383,
+            "content": "[p]He suddenly found that his wallet _____ stolen.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1445737967583,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "has been",
+                        "is",
+                        "had",
+                        "had been"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "3",
+                "type": 201
+            },
+            "solution": "[p]本题考查过去完成时。found 后边是一个由 that 引导的宾语从句，从句 “his wallet _____ stolen” 的时间发生在主句 “he suddenly found” 之前，即“他的钱包丢了”发生在“他发现”之前，主句用的是过去时，从句发生在过去的过去，应使用过去完成时，“偷”和“钱包”是动宾关系，应该使用被动语态，即应为 had been stolen。故正确答案为D。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": "14-15学年安徽省马鞍山市高二上学期期末考试：英语第29题",
+            "keypoints": [
+                {
+                    "id": 76135440,
+                    "name": "Unit 5 Meeting your ancestors"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]他突然发现他的钱包被偷了。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 1743383,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 3445,
+                "mostWrongAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "correctRatio": 65.74746008708273
+            }
+        },
+        {
+            "id": 1742065,
+            "content": "[p]When and where to go for the summer holidays _____ yet.[/p]",
+            "materialId": 0,
+            "type": 1,
+            "difficulty": 4,
+            "createdTime": 1445658648137,
+            "shortSource": null,
+            "accessories": [
+                {
+                    "options": [
+                        "are not decided",
+                        "has decided",
+                        "is not being decided",
+                        "has not been decided"
+                    ],
+                    "type": 101
+                }
+            ],
+            "correctAnswer": {
+                "choice": "3",
+                "type": 201
+            },
+            "solution": "[p]本题考查现在完成时的被动语态。yet 为现在完成时的标志，所以此句应用现在完成时，现在完成时的结构为 have/has + 过去分词。而 When and where to go for the summer holidays 与 decide 是被动的关系，所以应用被动语态。故正确答案为D。[/p]",
+            "userAnswer": null,
+            "correct": false,
+            "source": "14-15学年安徽省淮南市高二上学期期末考试：英语第23题",
+            "keypoints": [
+                {
+                    "id": 76063440,
+                    "name": "Unit 3 Computers"
+                }
+            ],
+            "tags": null,
+            "flags": null,
+            "solutionAccessories": [
+                {
+                    "label": "translate",
+                    "content": "[p]什么时候、去哪过暑假到现在还没有决定。[/p]",
+                    "type": 181
+                }
+            ],
+            "note": null,
+            "questionMeta": {
+                "id": 1742065,
+                "answerCount": 0,
+                "wrongCount": 0,
+                "totalCount": 5231,
+                "mostWrongAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "correctRatio": 64.92066526476773
+            }
+        }
+    ],
+    "materials": []
+}

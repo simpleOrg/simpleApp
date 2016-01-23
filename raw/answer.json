@@ -1,0 +1,101 @@
+{
+    "userAnswers": {
+        "0": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 168373,
+            "questionIndex": 0,
+            "time": 549
+        },
+        "1": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 168145,
+            "questionIndex": 1,
+            "time": 10
+        },
+        "2": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 166287,
+            "questionIndex": 2,
+            "time": 13
+        },
+        "3": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 165407,
+            "questionIndex": 3,
+            "time": 8
+        },
+        "4": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 165399,
+            "questionIndex": 4,
+            "time": 7
+        },
+        "5": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 1689675,
+            "questionIndex": 5,
+            "time": 13
+        },
+        "6": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 164407,
+            "questionIndex": 6,
+            "time": 4
+        },
+        "7": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 1573975,
+            "questionIndex": 7,
+            "time": 21
+        },
+        "8": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 1743383,
+            "questionIndex": 8,
+            "time": 8
+        },
+        "9": {
+            "answer": {
+                "type": 201
+            },
+            "flag": 0,
+            "questionId": 1742065,
+            "questionIndex": 9,
+            "time": 36
+        }
+    },
+    "treeId": 165,
+    "correctCount": 0,
+    "version": 1,
+    "id": 596654013,
+    "updatedTime": 0,
+    "status": 3,
+    "userId": 0
+}
